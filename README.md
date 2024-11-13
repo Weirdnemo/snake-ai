@@ -25,10 +25,11 @@ Make sure you have Python 3.x installed along with the following libraries:
 
 - `pygame` for the game interface
 - `numpy` for data handling
+- `pytorch` for training model
 
 Install the dependencies using pip:
 ```bash
-pip install pygame numpy
+pip install pygame numpy torch
 ```
 ## Installation
 - Clone the Repository
