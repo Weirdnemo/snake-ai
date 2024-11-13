@@ -4,8 +4,10 @@ This repository contains a Snake AI bot that learns to play the classic Snake ga
 
 This project is inspired by [Patrick Loeber's YouTube tutorial](https://youtu.be/L8ypSXwyBds?si=7WZQeQWUsDpe3osa), which covers the fundamentals of implementing reinforcement learning in a Snake game.
 
-## demo
-![Demo of the model training in real-time](https://github.com/Weirdnemo/snake-ai/tree/main/demo.mp4)
+## Demo
+
+[Demo of the model training in real-time](https://github.com/Weirdnemo/snake-ai/tree/main/demo.mp4)
+
 
 ## Features
 
