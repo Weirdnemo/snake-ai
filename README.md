@@ -6,7 +6,7 @@ This project is inspired by [Patrick Loeber's YouTube tutorial](https://youtu.be
 
 ## Demo
 
-![Demo of the model training in real-time](demo.gif)
+![Demo of model running in real time](demo.gif)
 
 
 ## Features
