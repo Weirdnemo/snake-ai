@@ -46,7 +46,7 @@ The bot uses a reinforcement learning approach to play Snake. Here’s a breakdo
 ## Project Structure
 - game.py: Contains the core game mechanics and functions to control the Snake game.
 - model.py: Defines the neural network model used to predict the best actions.
-- utils.py: Utility functions for data processing, reward calculation, and model training.
+- helper.py: Utility functions for data processing, reward calculation, and model training.
 - agent.py: Main file that initializes and runs the game with the AI.
 
 ## Customization
