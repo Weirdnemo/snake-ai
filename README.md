@@ -6,7 +6,7 @@ This project is inspired by [Patrick Loeber's YouTube tutorial](https://youtu.be
 
 ## Demo
 
-[Demo of the model training in real-time](https://github.com/Weirdnemo/snake-ai/tree/main/demo.mp4)
+![Demo of the model training in real-time](demo.gif)
 
 
 ## Features
